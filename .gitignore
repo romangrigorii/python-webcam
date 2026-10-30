@@ -1,0 +1,5 @@
+# Local recordings and photos
+captures/
+
+__pycache__/
+*.pyc
